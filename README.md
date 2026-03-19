@@ -1,5 +1,4 @@
 ## Hola,soy Camila 👋
-<!--
 ✨ Sobre Mi ✨ 
 📚 Tecnico nivel medio en Telecomunicaciones con mencion en conectividad y redes.
 💻 Actualmente estudiando una especialización en Desarrollo Full Stack Java en Generation 
