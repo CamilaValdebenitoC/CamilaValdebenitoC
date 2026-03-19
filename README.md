@@ -1,16 +1,15 @@
-## Hi there 👋
-
+## Hola,soy Camila 👋
 <!--
-**CamilaValdebenitoC/CamilaValdebenitoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Sobre Mi ✨ 
+📚 Tecnico nivel medio en Telecomunicaciones con mencion en conectividad y redes.
+💻 Actualmente estudiando una especialización en Desarrollo Full Stack Java en Generation 
+🌱 Me encanta la naturaleza y salir a recorrer nuevos lugares.
 
-Here are some ideas to get you started:
+💬 **Actualmente estoy aprendiendo **
+
+⚡ 
+
+😄
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently learning ..
